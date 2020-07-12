@@ -1,0 +1,2 @@
+# Training_Rstudio-01
+R_demanabu_bisinessdeta_analysis
